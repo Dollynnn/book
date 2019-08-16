@@ -1,2 +1,2 @@
-# book
-Primeiro projeto de Prog.WebII
+# book-livraria
+Material do primeiro projeto de Prog.Web II
